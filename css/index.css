@@ -1,0 +1,13 @@
+#myTab{
+  position: relative;
+  right: 0px;
+}
+
+pimg{
+  width: 100% !important;
+  height: 100% !important;
+}
+
+#load{
+  margin: 10px auto;
+}
